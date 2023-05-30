@@ -20,7 +20,6 @@ function App() {
      <Nav />
      <About />
      <Experience />
-     <Servicess />
      <Portfolio />
      <Contact />
      <Footer />

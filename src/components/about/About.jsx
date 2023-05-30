@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import ME from "../../assets/img/me.png"
+import ME from "../../assets/img/fotoportfolioexe.jpg"
 import {FaAward} from 'react-icons/Fa'
 import {FiUsers} from 'react-icons/Fi'
 import {VscNewFolder} from 'react-icons/Vsc'
@@ -34,7 +34,14 @@ const About = () => {
               <h5>Proyects</h5>
               <small>+50 proyects completed</small>
             </article>
-          </div>
+          </div>  
+          <p>
+            Soy un desarrollador de sofware en desarrollo que comenzo como un hobby y termino siendo una pasion.
+            Mi interes se centra en el desarrollo de paginas y aplicacion web y movil,la idea es elaborar productos de calidad con diseños simples y elegantes.
+            En base a proyectos he mejorado mis habilidades como desarrollador, lo que me motiva a seguir aprendiendo cada dia y mejorar mis conocimientos, sin miedo pero con respeto para nuevos desafios.
+          </p>
+          <a href="#contact" className='btn btn-primary'>Let's talk</a>
+         
         </div>
       </div>
     </section>

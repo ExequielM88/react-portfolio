@@ -79,7 +79,7 @@ header {
 @media screen and (max-width: 600px) {
     
     header {
-      margin-top: 2rem;
+      height: 100vh;
     }
 
     .header_social , .scroll_down {
