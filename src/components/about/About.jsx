@@ -1,9 +1,7 @@
 import React from 'react'
 import "./About.css"
 import ME from "../../assets/img/fotoportfolioexe.jpg"
-import {FaAward} from 'react-icons/Fa'
-import {FiUsers} from 'react-icons/Fi'
-import {VscNewFolder} from 'react-icons/Vsc'
+
 
 
 const About = () => {
