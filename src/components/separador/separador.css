@@ -1,0 +1,5 @@
+.separador {
+    height: 1px;
+    background-color: var(--color-primary);
+    margin: 3rem 20rem;
+}

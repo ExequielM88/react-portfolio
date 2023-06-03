@@ -28,7 +28,7 @@ const About = () => {
               <small>3+ Years Working</small>
             </article>
             <article className='about_card'>
-              <i class='bx bx-folder about_icongit ' ></i>
+              <i className='bx bx-folder about_icongit ' ></i>
               <h5>Proyects</h5>
               <small>+50 proyects completed</small>
             </article>

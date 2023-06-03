@@ -15,8 +15,8 @@ const Footer = () => {
 
       <div className="footer_socials">
         <a href="https://facebook.com"><i className='bx bxl-facebook-circle'></i></a>
-        <a href="https://facebook.com"><i class='bx bxl-instagram-alt' ></i></a>
-        <a href="https://facebook.com"><i class='bx bxl-twitter' ></i></a>
+        <a href="https://facebook.com"><i className='bx bxl-instagram-alt' ></i></a>
+        <a href="https://facebook.com"><i className='bx bxl-twitter' ></i></a>
       </div>
 
       <div className="footer_copyright">

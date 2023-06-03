@@ -23,7 +23,7 @@ const Contact = () => {
             <a href="https://www.facebook.com/exequiel84" target='_blank'>Send a message</a>
           </article>
           <article className='contact_option'>
-            <i class='bx bxl-whatsapp contact_option-icon' ></i>
+            <i className='bx bxl-whatsapp contact_option-icon' ></i>
             <h4>WhatsApp</h4>
             <h5>+3547451551</h5>
             <a href="https://api.whatsapp.com/send?phone+5493547451551" target='_blank'>Send a message</a>
