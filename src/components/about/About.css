@@ -72,6 +72,11 @@
     font-size: 1.5rem;
     color: var(--color-primary);
 }
+
+.parrafo {
+
+    text-align: justify;
+}
 /* ========================= media queries (medium devices) ==============*/
 
 @media screen and (max-width: 1024px) {

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import ME from "../../assets/img/fotoportfolioexe.jpg"
+import ME from "../../assets/img/fondoexe.png"
 
 
 
@@ -33,7 +33,7 @@ const About = () => {
               <small>+50 proyects completed</small>
             </article>
           </div>  
-          <p>
+          <p className='parrafo'> 
             Soy un desarrollador de sofware en desarrollo que comenzo como un hobby y termino siendo una pasion.
             Mi interes se centra en el desarrollo de paginas y aplicacion web y movil,la idea es elaborar productos de calidad con diseños simples y elegantes.
             En base a proyectos he mejorado mis habilidades como desarrollador, lo que me motiva a seguir aprendiendo cada dia y mejorar mis conocimientos, sin miedo pero con respeto para nuevos desafios.
