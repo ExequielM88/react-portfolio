@@ -1,14 +1,12 @@
 import React from 'react'
-import {AiFillLinkedin} from 'react-icons/Ai'
-import {AiFillGithub} from 'react-icons/Ai'
-import {AiFillDribbbleCircle} from 'react-icons/Ai'
+
 
 const HeaderSocial = () => {
   return (
     <div className="header_social">
-      <a href="https://www.linkedin.com/in/exequiel-mainero-568547239/" target='_blank'><AiFillLinkedin /></a>
-      <a href="https://github.com/ExequielM88" target='_blank'><AiFillGithub /></a>
-      <a href="https://www.linkedin.com/in/exequiel-mainero-568547239/" target='_blank'><AiFillDribbbleCircle /></a>  
+      <a href="https://www.linkedin.com/in/exequiel-mainero-568547239/" target='_blank'><i className='bx bxl-linkedin-square' ></i></a>
+      <a href="https://github.com/ExequielM88" target='_blank'><i className='bx bxl-github' ></i></a>
+      <a href="https://www.linkedin.com/in/exequiel-mainero-568547239/" target='_blank'><i className='bx bxl-netlify'></i></a>  
     </div>
   )
 }
